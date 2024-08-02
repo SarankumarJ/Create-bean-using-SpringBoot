@@ -1,5 +1,3 @@
-##  DemoApplication.java
-```
 package com.example.demo;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -70,6 +68,3 @@ class MyController {
 		return output.toString();
 	}
 }
-```
-## Output:
-![image](https://github.com/user-attachments/assets/4c215331-45ef-4213-9578-75ae5719bf5f)
